@@ -4,7 +4,7 @@
 // It is in use currently by the purchasing and accounting department.   
 
 // Connect with Appscript API (input spreadsheet)
-function split_vendor() {
+  function split_vendor() {
   
   var data = SpreadsheetApp.getActiveSpreadsheet();
   var initial_data = data.getActiveSheet();
