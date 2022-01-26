@@ -1,3 +1,6 @@
+// The following code was developed for the sole purpose to differenciate vendors based on 
+// their product prices. 
+
 function split_vendor() {
   
   var data = SpreadsheetApp.getActiveSpreadsheet();
