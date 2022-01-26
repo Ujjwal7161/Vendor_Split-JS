@@ -92,12 +92,4 @@ function split_vendor() {
   performance_sheet.getRange(2,1,performance_len,numOfColumn).setValues(performance_arr);
 
 
-
-    
-
-
-
-
-
-
 }
