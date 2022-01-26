@@ -1,6 +1,6 @@
 // The following code was developed for the sole purpose to differenciate vendors based on 
-// their product prices. The primary purpose of this project was to reduce purchasing cost.
-// It is in use currently by the purchasing and accouting department.   
+// their product prices. The primary purpose of this project was to reduce purchasing costs.
+// It is in use currently by the purchasing and accounting department.   
 
 // Connect with Appscript API (input spreadsheet)
 function split_vendor() {
